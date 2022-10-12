@@ -15,7 +15,9 @@ A alteração de tela se dá conforme a alteração da largura da tela do dispos
 ## :computer: Preview
 
 Visão Celular
+
 ![preview](./github/preview1.png)
 
 Visão Computador
+
 ![preview](./github/preview2.png)
